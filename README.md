@@ -31,6 +31,7 @@ The three notebooks work together in the following order:
 ![east_harlem_stock_photo](https://user-images.githubusercontent.com/8728172/164987246-6a80f2ca-fcb1-4761-a909-74662e30eedc.jpg)
 
 10029:
+
 In East Harlem, the most common stop-and-frisk zip code, where 220 folks were reported stop-and-frisked in 2020, the consent-asked rate is around 11%, (in between the first and second quartile, so slightly less than the absolute average for this data set.)
 
 
