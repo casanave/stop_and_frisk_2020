@@ -32,18 +32,22 @@ The three notebooks work together in the following order:
 ![east_harlem_stock_photo](https://user-images.githubusercontent.com/8728172/164987246-6a80f2ca-fcb1-4761-a909-74662e30eedc.jpg)
 
 In East Harlem, the most common stop-and-frisk zip code, where 220 folks were reported stop-and-frisked in 2020, the consent-asked rate is around 11%, (in between the first and second quartile, so slightly less than the absolute average for this data set.)
+
 11207:
 ![east_ny_stock_photo](https://user-images.githubusercontent.com/8728172/164987252-bc09b300-61a8-4d2a-bd0d-fefe28dac3a2.jpg)
 
 East New York, the second most common stop-and-frisk zip code, percent-asked is around 20% (putting it in the 75 percentile of most consensual stop-and-frisks as well.) That's a big difference from East Harlem's 11% consent-asked rate, for those 169 folks stop-and-frisked. 
+
 11206:
 ![bushwick_stock_photo](https://user-images.githubusercontent.com/8728172/164987266-e586b94c-5b30-410e-a5f3-cadcfb150034.jpg)
 
 Bushwick, the seventh most common stop-and-frisk zip code, consent-asked is around 25%, (also putting it in the 75% percentile of most consensual stop-and-frisks.) This zip code has one of the highest consent-asked rates for high-frequency zipcodes. 
+
 11234:
 ![mills_basin_stock_photo](https://user-images.githubusercontent.com/8728172/164987278-d23ffc1c-9c26-4022-8816-92457edbbe84.jpg)
 
 Flatlands/Bergen Beach, the 14th most common stop-and-frisk zip code, the consent-asked rate is at about 23%, while just next door in Canarsie, zipcode 11236, the consent-asked rate is less than half of that at about 10.5%. 
+
 11220:
 ![sunset_park_stock_photo](https://user-images.githubusercontent.com/8728172/164987289-57675efe-878e-4d00-8682-d7655dd8333a.jpg)
 
@@ -55,13 +59,16 @@ Sunset Park, the 15th most common stop-and-frisk zip code, consent-asked is the 
 ![industry_city_stock_photo](https://user-images.githubusercontent.com/8728172/164987298-11b658cc-01de-4f29-8126-9e22acf60a34.jpg)
 
 This is Bush Terminal/Greenwood/Sunset Park. Of the zip codes where consent was never asked for in 2020, this is the zip code where stop-and-frisks had the highest stop-and-frisk frequency of 40 people. 
+
 11375:
 ![forrest_hills_stock_photo](https://user-images.githubusercontent.com/8728172/164987308-2f0aedbb-8c15-4345-b4dc-15449fe47800.jpg)
 
 Forrest Hills had a low consent-asked rate too compared to its stop-and-frisk frequency of about 30 people, similar to sunset park.
+
 10306:
 ![midland_beach_stock_photo](https://user-images.githubusercontent.com/8728172/164987320-d655f601-35a7-48af-983c-0834136e7b16.jpg)
 This zip code is in Staten Island and includes Midland Beach. It had a surprising 0% consent-asked rate for the 31 people stop-and-frisked there, compared to just next door, in 10309 where 22 people were stop-and-frisked. But when we look to try to see what percentage of the folks in 10309 were asked for consent, we see a percent close to 20%.
+
 11210:
 ![flatlands_stock_photo](https://user-images.githubusercontent.com/8728172/164987332-0216b01f-0fe0-4e91-8f8c-12d3527e61ce.jpg)
 For the about 30 people who were stop-and-frisked in this part of the Flatlands in 2020, none were asked if they consented.
