@@ -22,7 +22,7 @@ Consent-Asked Map:
 The three notebooks work together in the following order:
 1) zipcode_frequency.ipynb shows how to make the first map by dropping null values and aggregating the data to show the frequency of stop-and-frisks by zipcode in 2020 NYC. 
 2) consent_asked.ipynb shows how to make the second map using similar methods, but also introduces how to use the "threshold" parameter in folium. It shows the consent-asked rates by zipcode for stop-and-frisks in 2020 NYC. 
-3) comparing_zipcode_frequency_to_consent_asked.ipynb shows using pandas and sorting values to compare consent-asked rates to zipcode-frequency rates. I unpack some of the analysis here. 
+3) comparing_zipcode_frequency_to_consent_asked.ipynb shows using pandas and sorting values to compare consent-asked rates to zipcode-frequency rates. I unpack some of the analysis here. My full table of findings is available as an excel file here in stop_and_frisk/data/2020_NYPD_Stop-and-Frisk_consent-asked_rate.xlsx
 
 # CONCLUSION:
 
